@@ -1,0 +1,8 @@
+package ZeroJudge;
+import java.util.*;
+public class  因數分解A010 {
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		int n=sc.nextInt();
+	}
+}
